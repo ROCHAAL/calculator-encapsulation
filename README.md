@@ -1,6 +1,8 @@
 # calculator-encapsulation
 ```
-Exercise 2
+
+##Exercise 2
+
 Use a diagram to group the methods in this example:
 
 class Calculator
@@ -16,8 +18,12 @@ class Calculator
     "The Answer is: #{ answer }"
   end
 end
-Exercise 3
+```
+```
+##Exercise 3
+
 Refactor the methods in the Calculator example into two classes as you see fit.
+```
 
 
 
